@@ -1,0 +1,17 @@
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\bin\Debug\mook_SendData.exe.config
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\bin\Debug\mook_SendData.exe
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\bin\Debug\mook_SendData.pdb
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\obj\Debug\mook_SendData.csprojResolveAssemblyReference.cache
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\obj\Debug\mook_SendData.Properties.Resources.resources
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\obj\Debug\mook_SendData.csproj.GenerateResource.Cache
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\obj\Debug\mook_SendData.exe
+C:\NetworkCS\Chap1\mook_SendData\mook_SendData\obj\Debug\mook_SendData.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\bin\Debug\mook_SendData.exe.config
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\bin\Debug\mook_SendData.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\bin\Debug\mook_SendData.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.csprojAssemblyReference.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.Properties.Resources.resources
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.csproj.GenerateResource.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.csproj.CoreCompileInputs.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_SendData\mook_SendData\obj\Debug\mook_SendData.pdb

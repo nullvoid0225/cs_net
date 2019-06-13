@@ -1,0 +1,13 @@
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.exe.config
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.exe
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.pdb
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.csprojResolveAssemblyReference.cache
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.exe
+C:\NetworkCS\Chap1\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.exe.config
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\bin\Debug\mook_EventNumCatch.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.csprojAssemblyReference.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.csproj.CoreCompileInputs.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_EventNumCatch\mook_EventNumCatch\obj\Debug\mook_EventNumCatch.pdb

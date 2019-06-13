@@ -1,0 +1,9 @@
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\bin\Debug\mook_ParameterThread.exe.config
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\bin\Debug\mook_ParameterThread.exe
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\bin\Debug\mook_ParameterThread.pdb
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.csprojResolveAssemblyReference.cache
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.Form1.resources
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.Properties.Resources.resources
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.csproj.GenerateResource.Cache
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.exe
+C:\NetworkCS\Chap1\mook_ParameterThread\mook_ParameterThread\obj\Debug\mook_ParameterThread.pdb

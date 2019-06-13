@@ -1,0 +1,8 @@
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCMD.exe.config
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCMD.exe
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCMD.pdb
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCMD\obj\Debug\mook_RemoteCMD.Form1.resources
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCMD\obj\Debug\mook_RemoteCMD.Properties.Resources.resources
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCMD\obj\Debug\mook_RemoteCMD.csproj.GenerateResource.Cache
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCMD\obj\Debug\mook_RemoteCMD.exe
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCMD\obj\Debug\mook_RemoteCMD.pdb

@@ -1,0 +1,12 @@
+C:\NetworkCS\Chap1\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe.config
+C:\NetworkCS\Chap1\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe
+C:\NetworkCS\Chap1\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.pdb
+C:\NetworkCS\Chap1\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.exe
+C:\NetworkCS\Chap1\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe.config
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.pdb
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.csprojAssemblyReference.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.csproj.CoreCompileInputs.cache
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.exe
+C:\Users\ADE\Documents\GitHub\cs_net\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.pdb

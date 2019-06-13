@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_ThreadReceiveData", "mook_ThreadReceiveData\mook_ThreadReceiveData.csproj", "{DDB7EA06-F2F8-4B98-97A3-75D313631BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB7EA06-F2F8-4B98-97A3-75D313631BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7EA06-F2F8-4B98-97A3-75D313631BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7EA06-F2F8-4B98-97A3-75D313631BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7EA06-F2F8-4B98-97A3-75D313631BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

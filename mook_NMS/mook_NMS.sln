@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_NMS", "mook_NMS\mook_NMS.csproj", "{9731CE94-C45D-4C77-90FB-09CDB9A0E07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_RemoteShutdownManager", "mook_RemoteShutdownManager\mook_RemoteShutdownManager.csproj", "{9B89D7DA-55A3-463A-A3CF-79A460EFD025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_RemoteMessage", "mook_RemoteMessage\mook_RemoteMessage.csproj", "{AF2F589D-A9BD-4D9E-A6B7-0840EF2041E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_RemoteCMD", "mook_RemoteCMD\mook_RemoteCMD.csproj", "{610FD584-BEC7-49EE-AD42-FFF487DFCE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_RemoteCPU", "mook_RemoteCPU\mook_RemoteCPU.csproj", "{F68D477D-A003-406A-AF18-5FB80F238691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_RemoteCPUCore", "mook_RemoteCPUCore\mook_RemoteCPUCore.csproj", "{4855146A-6436-4385-8FE6-9F234B35E9C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9731CE94-C45D-4C77-90FB-09CDB9A0E07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9731CE94-C45D-4C77-90FB-09CDB9A0E07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9731CE94-C45D-4C77-90FB-09CDB9A0E07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9731CE94-C45D-4C77-90FB-09CDB9A0E07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B89D7DA-55A3-463A-A3CF-79A460EFD025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B89D7DA-55A3-463A-A3CF-79A460EFD025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B89D7DA-55A3-463A-A3CF-79A460EFD025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B89D7DA-55A3-463A-A3CF-79A460EFD025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2F589D-A9BD-4D9E-A6B7-0840EF2041E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2F589D-A9BD-4D9E-A6B7-0840EF2041E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2F589D-A9BD-4D9E-A6B7-0840EF2041E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2F589D-A9BD-4D9E-A6B7-0840EF2041E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610FD584-BEC7-49EE-AD42-FFF487DFCE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610FD584-BEC7-49EE-AD42-FFF487DFCE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610FD584-BEC7-49EE-AD42-FFF487DFCE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610FD584-BEC7-49EE-AD42-FFF487DFCE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68D477D-A003-406A-AF18-5FB80F238691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68D477D-A003-406A-AF18-5FB80F238691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68D477D-A003-406A-AF18-5FB80F238691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68D477D-A003-406A-AF18-5FB80F238691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4855146A-6436-4385-8FE6-9F234B35E9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4855146A-6436-4385-8FE6-9F234B35E9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4855146A-6436-4385-8FE6-9F234B35E9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4855146A-6436-4385-8FE6-9F234B35E9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

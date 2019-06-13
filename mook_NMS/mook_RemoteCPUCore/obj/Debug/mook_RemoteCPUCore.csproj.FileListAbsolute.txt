@@ -1,0 +1,7 @@
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCPUCore.dll
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCPUCore.pdb
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPUCore\obj\Debug\mook_RemoteCPUCore.csprojResolveAssemblyReference.cache
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPUCore\obj\Debug\mook_RemoteCPUCore.mook_RemoteCPUCore.resources
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPUCore\obj\Debug\mook_RemoteCPUCore.csproj.GenerateResource.Cache
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPUCore\obj\Debug\mook_RemoteCPUCore.dll
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPUCore\obj\Debug\mook_RemoteCPUCore.pdb

@@ -1,0 +1,9 @@
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCPU.exe.config
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCPU.exe
+C:\NetworkCS\Chap8\mook_NMS\mook_NMS\bin\Debug\mook_RemoteCPU.pdb
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.csprojResolveAssemblyReference.cache
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.Form1.resources
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.Properties.Resources.resources
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.csproj.GenerateResource.Cache
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.exe
+C:\NetworkCS\Chap8\mook_NMS\mook_RemoteCPU\obj\Debug\mook_RemoteCPU.pdb
